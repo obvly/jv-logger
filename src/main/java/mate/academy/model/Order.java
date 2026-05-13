@@ -1,6 +1,6 @@
 package mate.academy.model;
 
-import java.util.List;
+import java.util.List; // Java импорты обычно идут первыми
 
 public class Order {
     private Long orderId;
